@@ -1,5 +1,3 @@
-Task1-2
-
 public class Task1_2 {
     public static void main(String[] args) {
     int[] country ={JAPAN.AMERICA.KOREA};
