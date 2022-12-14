@@ -2,7 +2,7 @@ Task1-2
 
 public class Task1_2 {
     public static void main(String[] args) {
-    String[] country ={JAPAN.AMERICA.KOREA};
+    String[] country ={"JAPAN"."AMERICA"."KOREA"};
     
 
 
