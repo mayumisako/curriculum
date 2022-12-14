@@ -2,7 +2,7 @@ Task1-2
 
 public class Task1_2 {
     public static void main(String[] args) {
-    int[] country ={JAPAN.AMERICA.KOREA};
+    String[] country ={JAPAN.AMERICA.KOREA};
     
 
 
@@ -23,5 +23,5 @@ int[] intArray = { 10, 20, 30, 40, 50 }:
 System.out.println(intArray[1] + intArray[4]);
 
     }}
-    
+
 
